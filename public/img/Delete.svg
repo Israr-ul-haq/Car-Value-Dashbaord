@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Delete" transform="translate(-1247 -363)">
+    <g id="Delete_Icon" data-name="Delete Icon">
+      <rect id="Rectangle_1584" data-name="Rectangle 1584" width="23" height="23" rx="5" transform="translate(1247 363)" fill="#ff003a"/>
+      <g id="trash" transform="translate(1253.588 367.55)">
+        <path id="Path_2568" data-name="Path 2568" d="M126.258.793h2.2v.369h.793V.741A.742.742,0,0,0,128.5,0h-2.3a.742.742,0,0,0-.741.741v.421h.793Zm0,0" transform="translate(-122.246 0)" fill="#fff"/>
+        <path id="Path_2569" data-name="Path 2569" d="M48.282,167.75H40.84a.349.349,0,0,0-.348.377l.622,7.693a.826.826,0,0,0,.823.76h5.247a.826.826,0,0,0,.823-.76l.622-7.693a.349.349,0,0,0-.348-.377Zm-5.64,8.01h-.025a.4.4,0,0,1-.4-.372l-.39-6.316a.4.4,0,0,1,.791-.049l.39,6.316A.4.4,0,0,1,42.642,175.76Zm2.32-.4a.4.4,0,0,1-.793,0v-6.316a.4.4,0,1,1,.793,0Zm2.328-6.293-.372,6.316a.4.4,0,0,1-.4.373H46.5a.4.4,0,0,1-.372-.419l.372-6.316a.4.4,0,0,1,.791.047Zm0,0" transform="translate(-39.452 -163.447)" fill="#fff"/>
+        <path id="Path_2570" data-name="Path 2570" d="M10.2,77.336l-.26-.78a.5.5,0,0,0-.478-.345H.756a.5.5,0,0,0-.478.345l-.26.78a.327.327,0,0,0,.31.43H9.891a.323.323,0,0,0,.173-.05.327.327,0,0,0,.137-.38Zm0,0" transform="translate(0 -74.256)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
